@@ -9,7 +9,7 @@ Skill modular de la **Evolution API v2.3** diseñado para agentes IA Claude. Div
 Ejecuta este comando en cualquier computadora:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/TU_USUARIO/evolution-api-skill/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/CarlosBranty/evolution-api-skill/main/install.sh | bash
 ```
 
 El skill se instala en `~/.claude/skills/evolution-api/`.
