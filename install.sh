@@ -4,7 +4,7 @@
 # Evolution API Skill — Script de Instalación
 # ================================================
 
-REPO_URL="https://raw.githubusercontent.com/TU_USUARIO/evolution-api-skill/main"
+REPO_URL="https://raw.githubusercontent.com/CarlosBranty/evolution-api-skill/main"
 INSTALL_DIR="${HOME}/.claude/skills/evolution-api"
 
 # Colores
